@@ -1,0 +1,1 @@
+https://awslabs.github.io/aws-lambda-powertools-python/latest/utilities/data_classes/
