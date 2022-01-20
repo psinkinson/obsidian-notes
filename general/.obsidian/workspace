@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9f7ed77c8258e046",
+        "id": "59551827f5a6f07d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "daily.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cloudfron",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 283
   },
   "right": {
     "id": "3d25a4da8b391425",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,11 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "9f7ed77c8258e046",
+  "active": "59551827f5a6f07d",
   "lastOpenFiles": [
-    "Untitled.md"
+    "daily.md",
+    "India ivermectin home kits.md",
+    "Here Technologies.md",
+    "Cube app demo.md",
+    "Cube performance.md",
+    "Location table.md",
+    "invalidate cloudfront distribution.md",
+    "New fields for aug_log in  truckInfoSnapshot.md",
+    "Useful commands.md",
+    "TWIST E1362 Frank Slootman.md"
   ]
 }

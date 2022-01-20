@@ -1,0 +1,1 @@
+system_enclosure_temperature_degc: number; 2system_enclosure_humidity_rh: number;

@@ -1,0 +1,16 @@
+- Recent project you have been working on
+- -- covid vaccinations effiency. evaluated requirements. 
+- worked in 
+- Problem you solved
+- What would you do differently now?
+- Wearables - problems encountered / solutions
+- Experience of / Perfer large or small teams
+- Why leaving
+- - disagreements in management. lack of clarity
+- Why do you want to work at Cloud Cycle?
+- -- have clients already. 
+- -- client feedback is key. 
+- -- companies fail because they arent solving the right problem.
+- -- scaling up. next step for him
+- Perfect role
+- -- verge of scale-up. know the team. delivering value to the business.
